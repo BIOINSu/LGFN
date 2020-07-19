@@ -32,19 +32,19 @@ Quantitative results of state-of-the-art SR algorithms on Vid4 for 4 ×.  **Bold
 
 
 
-Quantitative results of state-of-the-art SR algorithms on SPMCS for $4 \times$. The results are the average evaluation across all restored video frames.  **Bold type** indicates the best and <u>underline</u> indicates the second best performance (PSNR/SSIM). 
+Quantitative results of state-of-the-art SR algorithms on SPMCS for 4 ×. The results are the average evaluation across all restored video frames.  **Bold type** indicates the best and <u>underline</u> indicates the second best performance (PSNR/SSIM). 
 
 ![quantitative_spmcs_all](./imgs/quantitative_spmcs_all.png)
 
 
 
-Quantitative results of state-of-the-art SR algorithms on part of SPMCS clips for $4 \times$.  **Bold type** indicates the best and <u>underline</u> indicates the second best performance (PSNR/SSIM). 
+Quantitative results of state-of-the-art SR algorithms on part of SPMCS clips for 4 ×.  **Bold type** indicates the best and <u>underline</u> indicates the second best performance (PSNR/SSIM). 
 
 ![quantitative_spmcs_part](./imgs/quantitative_spmcs_part.png)
 
 
 
-Quantitative results of state-of-the-art SR algorithms on Vimeo-90K-T for $4 \times$.  **Bold type** indicates the best and <u>underline</u> indicates the second best performance (PSNR/SSIM). 
+Quantitative results of state-of-the-art SR algorithms on Vimeo-90K-T for 4 ×.  **Bold type** indicates the best and <u>underline</u> indicates the second best performance (PSNR/SSIM). 
 
 ![quantitative_vimeo90k](./imgs/quantitative_vimeo90k.png)
 
@@ -52,18 +52,18 @@ Quantitative results of state-of-the-art SR algorithms on Vimeo-90K-T for $4 \ti
 
 ### Visual Results
 
-Visual comparisons on Vid4 for $4\times$ scaling factor. Zoom in to see better visualization.
+Visual comparisons on Vid4 for 4 × scaling factor. Zoom in to see better visualization.
 
 ![visual_spmcs](./imgs/visual_spmcs.png)
 
 
 
-Visual comparisons on SPMCS for $4\times$ scaling factor.
+Visual comparisons on SPMCS for 4 × scaling factor.
 
 ![visual_spmcs](./imgs/visual_spmcs.png)
 
 
 
-Visual comparisons on Vimeo-90K-T for $4\times$ scaling factor.
+Visual comparisons on Vimeo-90K-T for 4 × scaling factor.
 
 ![visual_vimeo90k](./imgs/visual_vimeo90k.png)
