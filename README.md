@@ -26,7 +26,7 @@ The goal of video super-resolution technique is to effectively address the probl
 
 ### Quantitative Results
 
-Quantitative results of state-of-the-art SR algorithms on Vid4 for $4 \times$.  **Bold type** indicates the best and <u>underline</u> indicates the second best performance (PSNR/SSIM). 
+Quantitative results of state-of-the-art SR algorithms on Vid4 for 4 ×.  **Bold type** indicates the best and <u>underline</u> indicates the second best performance (PSNR/SSIM). 
 
 ![quantitative_vid4](./imgs/quantitative_vid4.png)
 
