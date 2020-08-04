@@ -38,7 +38,7 @@ Quantitative results of state-of-the-art SR algorithms on Vimeo-90K-T for 4 ×. 
 
 Visual comparisons on Vid4 for 4 × scaling factor. Zoom in to see better visualization.
 
-![visual_spmcs](./imgs/visual_spmcs.png)
+![visual_spmcs](./imgs/visual_vid4.png)
 
 
 
