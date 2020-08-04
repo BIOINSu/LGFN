@@ -4,7 +4,7 @@ This repository is about Local-Global Fusioin Network for Video Super-Resolution
 
 ## Introduction
 
-Our proposed LGFN devotes to effectively address the problem of restoring low-resolution (LR) videos to high-resolution (HR) ones. The input frames are first extract features by residual blocks. Next, we align the neighboring frames with the reference frame through stacked deformable convolutions (DCs) with decreased multi dilation convolution unit (DMDCU) to predict more accurate parameters. After that, features are fused by Local Fusion Module and Global Fusion Module respectively. The outputs are integrated together and sent into the reconstruction module to restore high quality video frames.
+Our proposed Local-Global Fusion Network for Video Super-Resolution (LGFN) devotes to effectively addressing the problem of restoring low-resolution (LR) videos to high-resolution (HR) ones. Features are extracted from the input frames through a feature extraction module. Then, we align the neighboring frames with the reference frame through stacked deformable convolutions (DCs) with decreased multi-dilation convolution units (DMDCUs) to predict more accurate parameters. After that, features are fused by local fusion module and global fusion module respectively. The outputs are integrated together and sent into the reconstruction module to restore high resolution video frames.
 
 ## Experimental Results
 
