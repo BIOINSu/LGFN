@@ -1,6 +1,6 @@
 # Local-Global Fusion Network for Video Super-Resolution
 
-This repository is about Local-Global Fusioin Network for Video Super-Resolution (LGFN). The source code will be released as soon as the paper is accepted.
+This repository is about Local-Global Fusioin Network for Video Super-Resolution (LGFN).
 
 ## Introduction
 
