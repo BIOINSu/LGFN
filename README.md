@@ -12,9 +12,9 @@ Our proposed Local-Global Fusion Network for Video Super-Resolution (LGFN) devot
 - Deformable Convolution -> [https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch/tree/pytorch_1.0.0](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch/tree/pytorch_1.0.0)
 
 ## Dependencies
-- [Vimeo_90k](https://pan.baidu.com/share/init?surl=WdQTorJmzAdRgh8sS7B3bw)(extracted code: "hjle")
-- [Vid4](https://pan.baidu.com/share/init?surl=XG94zpYsXX5nh0x1oAfF9g)(extracted code: "htvb")
-- [SPMCS](https://pan.baidu.com/share/init?surl=eW5dc0-K8NPmsDen-W71LA)(extracted code: "ouyg")
+- [Vimeo_90k](https://pan.baidu.com/share/init?surl=WdQTorJmzAdRgh8sS7B3bw) (extracted code: "hjle")
+- [Vid4](https://pan.baidu.com/share/init?surl=XG94zpYsXX5nh0x1oAfF9g) (extracted code: "htvb")
+- [SPMCS](https://pan.baidu.com/share/init?surl=eW5dc0-K8NPmsDen-W71LA) (extracted code: "ouyg")
 
 ## Experimental Results
 
